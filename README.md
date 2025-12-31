@@ -2,6 +2,15 @@
 An AI-based text summarization tool that generates concise summaries from long input text using transformer-based NLP models.
 
 
+    COMPANY : CODTECH IT SOLUTIONS
+    NAME : SARAVANA KUMAR P
+    INTERN-ID : E7168CC4F2588B07
+    DOMAIN : ARTIFICIAL INTELLIGENCE
+    DURATION : 4 WEEKS
+    MENTOR : NEELA SANTHOSH
+
+
+
 
 
 🧠 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗗𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻
