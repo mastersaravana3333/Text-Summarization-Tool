@@ -29,6 +29,21 @@ This task demonstrates practical usage of NLP models in handling large textual d
 
     ● Pre-trained BART model
 
+⚙️ 𝗜𝗺𝗽𝗹𝗲𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 𝗗𝗲𝘁𝗮𝗶𝗹𝘀
+
+The implementation uses a transformer-based summarization pipeline. The input text is tokenized and processed by the pre-trained model, which analyzes sentence structure, semantic relationships, and contextual importance. The model then generates a summarized output by focusing on the most meaningful segments of the text.
+The code is structured in a clear and readable manner, allowing users to easily replace the input text and regenerate summaries. No manual preprocessing is required, as the model internally handles tokenization and summarization logic.
+
+🌍 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀
+
+    • News article summarization
+
+    • Academic research review
+
+    • Legal and policy document analysis
+
+    • Content optimization for blogs and websites
+
 📊 𝗢𝘂𝘁𝗽𝘂𝘁
 ![Task1](https://github.com/user-attachments/assets/07a84686-6385-42b1-ade4-78e7a6a656ac)
 
